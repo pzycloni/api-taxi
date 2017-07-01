@@ -1,0 +1,8 @@
+AddDefaultCharset Off
+<IfModule dir_module>
+    DirectoryIndex index.php
+</IfModule>
+
+# Turn rewrite engine on
+Options +FollowSymlinks
+
